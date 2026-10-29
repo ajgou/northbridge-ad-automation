@@ -1,0 +1,8 @@
+*.vhd
+*.vhdx
+*.avhdx
+*.iso
+*.vmrs
+*.vmgs
+third-party/
+secrets/
