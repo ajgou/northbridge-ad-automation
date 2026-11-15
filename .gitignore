@@ -6,3 +6,5 @@
 *.vmgs
 third-party/
 secrets/
+logs/
+reports/
